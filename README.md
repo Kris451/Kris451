@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+小白一只，热爱探索。
+
+十年饮冰，难凉热血。
+
+
 <!--
 **Kris451/Kris451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
