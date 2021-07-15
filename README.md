@@ -14,11 +14,11 @@
 
 ### 最新博文
 <!-- BLOG-POST-LIST:START -->
-- [ZZU健康上报自动化Python脚本](https://i.wangpl.top/p/89/)
-- [这是一篇测试文章](https://i.wangpl.top/p/28/)
-- [世界，您好！](https://i.wangpl.top/p/1/)
 - [端午安康！](https://wangpl.tech/posts/b60f/)
 - [好文分享：苏童《祖母的季节》](https://wangpl.tech/posts/2511/)
+- [微机-8086CPU](https://wangpl.tech/posts/f63e/)
+- [电机笔记（一）](https://wangpl.tech/posts/1a88/)
+- [微机笔记（一）](https://wangpl.tech/posts/d2d6/)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **Kris451/Kris451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
