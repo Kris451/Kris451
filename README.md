@@ -11,15 +11,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kris451&show_icons=true&locale=en" alt="kris451" /></p>
 
+💬 可以在这里联系到我 ...https://dun.mianbaoduo.com/@Kris451
 
-### 最新博文
-<!-- BLOG-POST-LIST:START -->
-- [端午安康！](https://wangpl.tech/posts/b60f/)
-- [好文分享：苏童《祖母的季节》](https://wangpl.tech/posts/2511/)
-- [微机-8086CPU](https://wangpl.tech/posts/f63e/)
-- [电机笔记（一）](https://wangpl.tech/posts/1a88/)
-- [微机笔记（一）](https://wangpl.tech/posts/d2d6/)
-<!-- BLOG-POST-LIST:END -->
 <!--
 **Kris451/Kris451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
